@@ -22,8 +22,8 @@ src/packages
 *.ncrunchsolution
 *.ncrunchproject
 *.swp
-TestResult.xml
 
 TestResult.xml
 build/
 *.nupkg
+logs/
