@@ -394,6 +394,7 @@
     <Compile Include="Utils\TypeReferenceEqualityTests.cs" />
     <Compile Include="Visitors\ComponentColumnPrefixVisitorSpecs.cs" />
     <Compile Include="Visitors\ComponentReferenceResolutionVisitorSpecs.cs" />
+    <Compile Include="Visitors\RelationshipPairingVisitorSpecs.cs" />
     <Compile Include="Xml\MappingXmlTestHelper.cs" />
   </ItemGroup>
   <ItemGroup>
